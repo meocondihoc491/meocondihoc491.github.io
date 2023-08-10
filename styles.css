@@ -11,7 +11,7 @@ body, html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom, #00c6ff, #0072ff); /* Thay đổi màu sắc gradient ở đây */
+    background: linear-gradient(to right top, #ff4988, #ffc781, #ffefc); /* Thay đổi màu sắc gradient ở đây */
     color: white;
 }
 
